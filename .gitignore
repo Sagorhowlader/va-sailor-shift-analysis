@@ -1,0 +1,66 @@
+# Dependencies (regenerate with `npm install` inside frontend_src/)
+frontend_src/node_modules/
+node_modules/
+
+# Build output (regenerate with `npm run build`)
+frontend_src/dist/
+dist/
+
+# Vite cache
+frontend_src/.vite/
+.vite-temp/
+
+# IDE / editor
+.idea/
+.vscode/
+*.iml
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Logs
+npm-debug.log*
+*.log
+
+# Microsoft Word's auto-generated HTML export support files (theme/color
+# XML, embedded thumbnails) for the provided answer-sheet template -- not
+# project content, and their deeply-nested filenames can exceed Windows'
+# Git path-length limit.
+data/raw/VAST Challenge 2025 C1 Answer Sheet_files/

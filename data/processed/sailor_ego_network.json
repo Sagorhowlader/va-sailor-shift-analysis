@@ -1,0 +1,5148 @@
+{
+  "center": 17255,
+  "nodes": [
+    {
+      "id": 876,
+      "name": "Bold Without Apology",
+      "type": "Song",
+      "genre": "Indie Rock",
+      "release_date": "2010",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 2197,
+      "name": "Hallowed Transaction",
+      "type": "Album",
+      "genre": "Doom Metal",
+      "release_date": "2017",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 3881,
+      "name": "Susurros de Pasi\u00f3n",
+      "type": "Song",
+      "genre": "Synthwave",
+      "release_date": "2004",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 3986,
+      "name": "Altitude of Mistakes",
+      "type": "Song",
+      "genre": "Americana",
+      "release_date": "2015",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 5574,
+      "name": "Our Inevitable Path",
+      "type": "Song",
+      "genre": "Indie Folk",
+      "release_date": "2017",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 6592,
+      "name": "When the Bar Lights Go Up",
+      "type": "Song",
+      "genre": "Emo/Pop Punk",
+      "release_date": "2000",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 7026,
+      "name": "Reflejo Interior",
+      "type": "Song",
+      "genre": "Americana",
+      "release_date": "1983",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 8207,
+      "name": "Echoes of Forgotten Light",
+      "type": "Song",
+      "genre": "Alternative Rock",
+      "release_date": "2004",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 9223,
+      "name": "F\u00fcr uns alle zusammen",
+      "type": "Song",
+      "genre": "Alternative Rock",
+      "release_date": "2017",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 9848,
+      "name": "Partisan's Lament",
+      "type": "Song",
+      "genre": "Indie Pop",
+      "release_date": "2030",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 10016,
+      "name": "Dreamscape of Judgment",
+      "type": "Song",
+      "genre": "Symphonic Metal",
+      "release_date": "2023",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 10534,
+      "name": "Twelve Bells of Augsburg",
+      "type": "Song",
+      "genre": "Psychedelic Rock",
+      "release_date": "2026",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 10903,
+      "name": "Parallel Memories",
+      "type": "Song",
+      "genre": "Dream Pop",
+      "release_date": "2028",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 11254,
+      "name": "Divergent Memories",
+      "type": "Song",
+      "genre": "Indie Folk",
+      "release_date": "2017",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 12237,
+      "name": "Provence Aria",
+      "type": "Song",
+      "genre": "Indie Rock",
+      "release_date": "2023",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 12685,
+      "name": "Coastal Whispers of Biscay",
+      "type": "Song",
+      "genre": "Alternative Rock",
+      "release_date": "2031",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 13014,
+      "name": "Exoskeleton Dissolve",
+      "type": "Song",
+      "genre": "Indie Rock",
+      "release_date": "2020",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 13589,
+      "name": "Silent Steps in the Forest's Embrace",
+      "type": "Song",
+      "genre": "Avant-Garde Folk",
+      "release_date": "2023",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 14107,
+      "name": "Folklore's Heartbeat",
+      "type": "Song",
+      "genre": "Blues Rock",
+      "release_date": "2020",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 14296,
+      "name": "The Long Way Home",
+      "type": "Album",
+      "genre": "Dream Pop",
+      "release_date": "2023",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 14352,
+      "name": "Weathered Miles",
+      "type": "Song",
+      "genre": "Doom Metal",
+      "release_date": "2023",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 14658,
+      "name": "Addicted to Your Heartache",
+      "type": "Album",
+      "genre": "Southern Gothic Rock",
+      "release_date": "2004",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 14893,
+      "name": "Twilight's Threshold",
+      "type": "Song",
+      "genre": "Synthwave",
+      "release_date": "2007",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 14933,
+      "name": "The Crown We Wear",
+      "type": "Song",
+      "genre": "Indie Rock",
+      "release_date": "2022",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 15855,
+      "name": "Sacred Fragments",
+      "type": "Song",
+      "genre": "Synthwave",
+      "release_date": "2003",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 16312,
+      "name": "Harvest Dance at Ler Valley",
+      "type": "Song",
+      "genre": "Psychedelic Rock",
+      "release_date": "2010",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 16943,
+      "name": "The Lunar Tides",
+      "type": "MusicalGroup",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 16952,
+      "name": "Rust & Reverie",
+      "type": "MusicalGroup",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 16958,
+      "name": "Zane Cruz",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 16959,
+      "name": "Iris Moon",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 16960,
+      "name": "Violet Engines",
+      "type": "MusicalGroup",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 16961,
+      "name": "Neon Heartbeat",
+      "type": "Album",
+      "genre": "Synthwave",
+      "release_date": "2031",
+      "notable": false,
+      "depth": 1
+    },
+    {
+      "id": 16966,
+      "name": "Solace Vesper",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 16971,
+      "name": "Jasper Quinn",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 16977,
+      "name": "Mira Everly",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 16983,
+      "name": "Sophie Bennett",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 16984,
+      "name": "Michael Harris",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 16985,
+      "name": "Kara Lee",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 16986,
+      "name": "Ethan Clarke",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 16987,
+      "name": "Tidal Reverie",
+      "type": "MusicalGroup",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 16989,
+      "name": "Ballads for the End of Time",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2033",
+      "notable": true,
+      "depth": 1
+    },
+    {
+      "id": 16993,
+      "name": "Olivia Carter",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 16994,
+      "name": "Lucas Bennett",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 16995,
+      "name": "Maya Torres",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 16996,
+      "name": "Crimson Carriage",
+      "type": "MusicalGroup",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 16999,
+      "name": "Melancholy Circuitry",
+      "type": "Album",
+      "genre": "Americana",
+      "release_date": "2033",
+      "notable": true,
+      "depth": 1
+    },
+    {
+      "id": 17004,
+      "name": "Willow Sage",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17012,
+      "name": "Sienna Fox",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17020,
+      "name": "Zara Quinn",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17021,
+      "name": "Milo Knight",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17022,
+      "name": "Cassette Future",
+      "type": "MusicalGroup",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 1
+    },
+    {
+      "id": 17023,
+      "name": "Magnetized Nostalgia",
+      "type": "Album",
+      "genre": "Lo-Fi Electronica",
+      "release_date": "2032",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17024,
+      "name": "Midnight Static",
+      "type": "Album",
+      "genre": "Lo-Fi Electronica",
+      "release_date": "2034",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17025,
+      "name": "Dusty Frequencies",
+      "type": "Song",
+      "genre": "Lo-Fi Electronica",
+      "release_date": "2032",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17026,
+      "name": "AM Radio Ghosts",
+      "type": "Song",
+      "genre": "Lo-Fi Electronica",
+      "release_date": "2034",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17027,
+      "name": "Betamax Dreams",
+      "type": "Song",
+      "genre": "Lo-Fi Electronica",
+      "release_date": "2034",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17028,
+      "name": "Neon Memory Glitch",
+      "type": "Song",
+      "genre": "Lo-Fi Electronica",
+      "release_date": "2034",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17029,
+      "name": "Pixel Heartache",
+      "type": "Song",
+      "genre": "Lo-Fi Electronica",
+      "release_date": "2034",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17030,
+      "name": "Eliza Brooks",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17031,
+      "name": "Jasper Reed",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17032,
+      "name": "Silver Veil",
+      "type": "MusicalGroup",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 1
+    },
+    {
+      "id": 17033,
+      "name": "Horizon Line Blur",
+      "type": "Album",
+      "genre": "Indie Pop",
+      "release_date": "2031",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17034,
+      "name": "Heartbreak in 4K",
+      "type": "Album",
+      "genre": "Indie Pop",
+      "release_date": "2033",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17035,
+      "name": "Nocturnal Alibi",
+      "type": "Album",
+      "genre": "Indie Pop",
+      "release_date": "2035",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17036,
+      "name": "Summer\u2019s End (Forever)",
+      "type": "Song",
+      "genre": "Indie Pop",
+      "release_date": "2031",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17037,
+      "name": "Paper Planes and Daydreams",
+      "type": "Song",
+      "genre": "Indie Pop",
+      "release_date": "2033",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17038,
+      "name": "Skyline Glow",
+      "type": "Song",
+      "genre": "Indie Pop",
+      "release_date": "2035",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17039,
+      "name": "A Letter Never Sent",
+      "type": "Song",
+      "genre": "Indie Pop",
+      "release_date": "2035",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17040,
+      "name": "Fading Footsteps in the Sand",
+      "type": "Song",
+      "genre": "Indie Pop",
+      "release_date": "2035",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17041,
+      "name": "Arlo Sterling",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17042,
+      "name": "Lyra Blaze",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17043,
+      "name": "Orion Cruz",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17044,
+      "name": "Elara May",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17045,
+      "name": "Cassian Rae",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17046,
+      "name": "The Brine Choir",
+      "type": "MusicalGroup",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17047,
+      "name": "Drifting Between the Stars and the Sea",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2034",
+      "notable": true,
+      "depth": 1
+    },
+    {
+      "id": 17048,
+      "name": "Artificial Sunsets",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2035",
+      "notable": true,
+      "depth": 1
+    },
+    {
+      "id": 17049,
+      "name": "Electric Reverie",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2038",
+      "notable": true,
+      "depth": 1
+    },
+    {
+      "id": 17057,
+      "name": "Desert Echoes",
+      "type": "MusicalGroup",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17061,
+      "name": "Juno Ray",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17062,
+      "name": "Savannah Teal",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17063,
+      "name": "The Phantom Operators",
+      "type": "MusicalGroup",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 1
+    },
+    {
+      "id": 17064,
+      "name": "Secret Frequencies",
+      "type": "Album",
+      "genre": "Jazz Surf Rock",
+      "release_date": "2034",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17065,
+      "name": "The Algorithm of Love",
+      "type": "Album",
+      "genre": "Jazz Surf Rock",
+      "release_date": "2036",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17066,
+      "name": "Codebreaker\u2019s Waltz",
+      "type": "Song",
+      "genre": "Jazz Surf Rock",
+      "release_date": "2034",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17067,
+      "name": "The Getaway Route",
+      "type": "Song",
+      "genre": "Jazz Surf Rock",
+      "release_date": "2036",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17068,
+      "name": "Classified Groove",
+      "type": "Song",
+      "genre": "Jazz Surf Rock",
+      "release_date": "2036",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17071,
+      "name": "Cosmic Reverberation",
+      "type": "MusicalGroup",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17083,
+      "name": "Sylas Dune",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17091,
+      "name": "Turbo Kill",
+      "type": "MusicalGroup",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17100,
+      "name": "Rainfall Fiction",
+      "type": "MusicalGroup",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17107,
+      "name": "Chloe Montgomery",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17108,
+      "name": "Nathaniel Brooks",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17109,
+      "name": "Clara Davis",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17110,
+      "name": "The Hollow Monarchs",
+      "type": "MusicalGroup",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 1
+    },
+    {
+      "id": 17111,
+      "name": "Kingdoms of Dust",
+      "type": "Album",
+      "genre": "Post-Apocalyptic Folk",
+      "release_date": "2034",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17112,
+      "name": "Embers & Echoes",
+      "type": "Album",
+      "genre": "Post-Apocalyptic Folk",
+      "release_date": "2031",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17113,
+      "name": "Burn After Listening",
+      "type": "Album",
+      "genre": "Post-Apocalyptic Folk",
+      "release_date": "2035",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17114,
+      "name": "Smoke on the Horizon",
+      "type": "Song",
+      "genre": "Post-Apocalyptic Folk",
+      "release_date": "2031",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17115,
+      "name": "Echoes in the Barren Lands",
+      "type": "Song",
+      "genre": "Post-Apocalyptic Folk",
+      "release_date": "2031",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17116,
+      "name": "Forgotten Names, Fading Faces",
+      "type": "Song",
+      "genre": "Post-Apocalyptic Folk",
+      "release_date": "2034",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17117,
+      "name": "Farewell to the Fading Sun",
+      "type": "Song",
+      "genre": "Post-Apocalyptic Folk",
+      "release_date": "2035",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17118,
+      "name": "Zachary Cole",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17119,
+      "name": "Lia Grant",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17120,
+      "name": "Selkie's Hollow",
+      "type": "MusicalGroup",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17121,
+      "name": "Ballads for the Low Tide",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2037",
+      "notable": true,
+      "depth": 1
+    },
+    {
+      "id": 17126,
+      "name": "Cassian Storm",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 1
+    },
+    {
+      "id": 17127,
+      "name": "Rituals of the Unseen",
+      "type": "Album",
+      "genre": "Avant-Garde Folk",
+      "release_date": "2035",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17128,
+      "name": "Doomscrolling Forever",
+      "type": "Album",
+      "genre": "Avant-Garde Folk",
+      "release_date": "2039",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17129,
+      "name": "The Silence Between Us",
+      "type": "Album",
+      "genre": "Avant-Garde Folk",
+      "release_date": "2033",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17130,
+      "name": "Howl to the Hollow Moon",
+      "type": "Song",
+      "genre": "Avant-Garde Folk",
+      "release_date": "2035",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17131,
+      "name": "Voices in the Timberline",
+      "type": "Song",
+      "genre": "Avant-Garde Folk",
+      "release_date": "2033",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17132,
+      "name": "When the Wind Remembers",
+      "type": "Song",
+      "genre": "Avant-Garde Folk",
+      "release_date": "2039",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17133,
+      "name": "Ancestral Echoes",
+      "type": "Song",
+      "genre": "Avant-Garde Folk",
+      "release_date": "2039",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17134,
+      "name": "The Dance of the Forgotten",
+      "type": "Song",
+      "genre": "Avant-Garde Folk",
+      "release_date": "2035",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17138,
+      "name": "Iron Cathedral",
+      "type": "MusicalGroup",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17146,
+      "name": "Julia Carter",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17155,
+      "name": "Claire Holmes",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 1
+    },
+    {
+      "id": 17156,
+      "name": "City Lights & Cigarette Dreams",
+      "type": "Album",
+      "genre": "Synthpop",
+      "release_date": "2031",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17157,
+      "name": "Infinite Detour",
+      "type": "Album",
+      "genre": "Synthpop",
+      "release_date": "2032",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17158,
+      "name": "Synthetic Daydreams",
+      "type": "Album",
+      "genre": "Synthpop",
+      "release_date": "2033",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17159,
+      "name": "Streetlights and Synthesizers",
+      "type": "Song",
+      "genre": "Synthpop",
+      "release_date": "2031",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17160,
+      "name": "Melancholy Machine",
+      "type": "Song",
+      "genre": "Synthpop",
+      "release_date": "2031",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17161,
+      "name": "Glass Towers, Broken Hearts",
+      "type": "Song",
+      "genre": "Synthpop",
+      "release_date": "2032",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17162,
+      "name": "Electric Afterglow",
+      "type": "Song",
+      "genre": "Synthpop",
+      "release_date": "2033",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17163,
+      "name": "The City Never Sleeps, But We Do",
+      "type": "Song",
+      "genre": "Synthpop",
+      "release_date": "2033",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17164,
+      "name": "Rusty Riggins",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17165,
+      "name": "Finn McGraw",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17166,
+      "name": "William Tidewell",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17167,
+      "name": "The Salty Wakes",
+      "type": "MusicalGroup",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17189,
+      "name": "Ewan MacCrae",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17190,
+      "name": "Astrid N\u00f8rgaard",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17191,
+      "name": "Freya Lindholm",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17192,
+      "name": "The Fiddle & The Fjord",
+      "type": "MusicalGroup",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 1
+    },
+    {
+      "id": 17193,
+      "name": "Echoes of the Old Way",
+      "type": "Album",
+      "genre": "Celtic Folk",
+      "release_date": "1980",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17194,
+      "name": "Runes & Reverie",
+      "type": "Album",
+      "genre": "Celtic Folk",
+      "release_date": "1981",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17195,
+      "name": "Blood & Heather",
+      "type": "Album",
+      "genre": "Celtic Folk",
+      "release_date": "1982",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17196,
+      "name": "Mist Over Skye",
+      "type": "Song",
+      "genre": "Celtic Folk",
+      "release_date": "1980",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17197,
+      "name": "Where the Ravens Roam",
+      "type": "Song",
+      "genre": "Celtic Folk",
+      "release_date": "1980",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17198,
+      "name": "Storm & Stone",
+      "type": "Song",
+      "genre": "Celtic Folk",
+      "release_date": "1980",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17199,
+      "name": "The Wanderer's Oath",
+      "type": "Song",
+      "genre": "Celtic Folk",
+      "release_date": "1981",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17200,
+      "name": "Silver and Salt",
+      "type": "Song",
+      "genre": "Celtic Folk",
+      "release_date": "1981",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17201,
+      "name": "Lost at Sea",
+      "type": "Song",
+      "genre": "Celtic Folk",
+      "release_date": "1981",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17202,
+      "name": "The Icebound Maiden",
+      "type": "Song",
+      "genre": "Celtic Folk",
+      "release_date": "1982",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17203,
+      "name": "Echoes of Skalds",
+      "type": "Song",
+      "genre": "Celtic Folk",
+      "release_date": "1982",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17204,
+      "name": "Wild Hunt Waltz",
+      "type": "Song",
+      "genre": "Celtic Folk",
+      "release_date": "1982",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17205,
+      "name": "Liam O'Sullivan",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17206,
+      "name": "Fiona Mercer",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17226,
+      "name": "Kai Reynolds",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17227,
+      "name": "Aiden Harper",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17228,
+      "name": "Finn Morgan",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17229,
+      "name": "Skylar Brooks",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17230,
+      "name": "The Wave Riders",
+      "type": "MusicalGroup",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17231,
+      "name": "Tides of Echos",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2029",
+      "notable": true,
+      "depth": 1
+    },
+    {
+      "id": 17232,
+      "name": "Driftwood Dreams",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2032",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17235,
+      "name": "Genevieve Bell",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17236,
+      "name": "Oceanic Rythms",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2027",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17237,
+      "name": "Seafarer's Lullaby",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2031",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17243,
+      "name": "Mariner's Refrain",
+      "type": "MusicalGroup",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17244,
+      "name": "Harbor Lights",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2028",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17245,
+      "name": "Cresting Waves",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2030",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17248,
+      "name": "Mia Waters",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17249,
+      "name": "Lila Rivers",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17250,
+      "name": "Siren's Call",
+      "type": "MusicalGroup",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17251,
+      "name": "Echos Below",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2028",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17252,
+      "name": "Hidden Depths",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2031",
+      "notable": true,
+      "depth": 1
+    },
+    {
+      "id": 17255,
+      "name": "Sailor Shift",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 0
+    },
+    {
+      "id": 17256,
+      "name": "Maya Jensen",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17257,
+      "name": "Lila \"Lilly\" Hartman",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17258,
+      "name": "Jade Thompson",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17259,
+      "name": "Sophie Ramirez",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17260,
+      "name": "Ivy Echos",
+      "type": "MusicalGroup",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 1
+    },
+    {
+      "id": 17261,
+      "name": "The Kelp Forest Canticles",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2024",
+      "notable": true,
+      "depth": 1
+    },
+    {
+      "id": 17262,
+      "name": "Luminescent Tides",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2025",
+      "notable": true,
+      "depth": 1
+    },
+    {
+      "id": 17263,
+      "name": "Shoreline Sonnets",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2026",
+      "notable": true,
+      "depth": 1
+    },
+    {
+      "id": 17264,
+      "name": "Sunken Bell Song",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2024",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17265,
+      "name": "Dancer of the Dappled Light",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2024",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17266,
+      "name": "Whispers in the Fronds",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2024",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17267,
+      "name": "The Angler's Lantern",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2025",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17268,
+      "name": "Deepsea Fireflies",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2025",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17269,
+      "name": "Sandpiper's Serenade",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2026",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17270,
+      "name": "Salt-Kissed Rhymes",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2026",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17271,
+      "name": "Tidepool Epigrams",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2026",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17272,
+      "name": "Tidal Pop Waves",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2028",
+      "notable": true,
+      "depth": 1
+    },
+    {
+      "id": 17273,
+      "name": "Salty Dreams",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2030",
+      "notable": true,
+      "depth": 1
+    },
+    {
+      "id": 17274,
+      "name": "The Current & The Chord",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2032",
+      "notable": true,
+      "depth": 1
+    },
+    {
+      "id": 17275,
+      "name": "Coral Beats",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2034",
+      "notable": true,
+      "depth": 1
+    },
+    {
+      "id": 17276,
+      "name": "Tides & Ballads",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2036",
+      "notable": true,
+      "depth": 1
+    },
+    {
+      "id": 17277,
+      "name": "Oceanbound",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2038",
+      "notable": true,
+      "depth": 1
+    },
+    {
+      "id": 17278,
+      "name": "Echoes of the Deep",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2040",
+      "notable": true,
+      "depth": 1
+    },
+    {
+      "id": 17279,
+      "name": "High Tide Heartbeat",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2028",
+      "notable": false,
+      "depth": 1
+    },
+    {
+      "id": 17280,
+      "name": "Electric Eel Love",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2028",
+      "notable": true,
+      "depth": 1
+    },
+    {
+      "id": 17281,
+      "name": "Sun-Drenched Daydream",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2028",
+      "notable": false,
+      "depth": 1
+    },
+    {
+      "id": 17282,
+      "name": "Chord of the Deep",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2028",
+      "notable": false,
+      "depth": 1
+    },
+    {
+      "id": 17283,
+      "name": "Heart of the Habitat",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2030",
+      "notable": false,
+      "depth": 1
+    },
+    {
+      "id": 17284,
+      "name": "Reef Rhythm",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2030",
+      "notable": false,
+      "depth": 1
+    },
+    {
+      "id": 17285,
+      "name": "Driftwood Lullaby",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2030",
+      "notable": false,
+      "depth": 1
+    },
+    {
+      "id": 17286,
+      "name": "Saltwater Hymn",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2032",
+      "notable": false,
+      "depth": 1
+    },
+    {
+      "id": 17287,
+      "name": "Moon Over the Tide",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2034",
+      "notable": true,
+      "depth": 1
+    },
+    {
+      "id": 17288,
+      "name": "Into the Current",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2034",
+      "notable": false,
+      "depth": 1
+    },
+    {
+      "id": 17289,
+      "name": "Barnacle Heart",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2034",
+      "notable": false,
+      "depth": 1
+    },
+    {
+      "id": 17290,
+      "name": "Fog & Fiddle",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2036",
+      "notable": true,
+      "depth": 1
+    },
+    {
+      "id": 17291,
+      "name": "The Fisherman's Prayer",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2036",
+      "notable": false,
+      "depth": 1
+    },
+    {
+      "id": 17292,
+      "name": "Stormsong",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2038",
+      "notable": true,
+      "depth": 1
+    },
+    {
+      "id": 17293,
+      "name": "Salt in My Veins",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2040",
+      "notable": false,
+      "depth": 1
+    },
+    {
+      "id": 17294,
+      "name": "The Last Mariner",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2040",
+      "notable": false,
+      "depth": 1
+    },
+    {
+      "id": 17295,
+      "name": "Silas Finch",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17296,
+      "name": "Coralia Bellweather",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17297,
+      "name": "Barnaby Quill",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17298,
+      "name": "Marina Grey",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17299,
+      "name": "The Saltwater Weavers",
+      "type": "MusicalGroup",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 1
+    },
+    {
+      "id": 17300,
+      "name": "Beneath the Coral Moon",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "1995",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17301,
+      "name": "Salt-Stained Chronicles",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "1997",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17302,
+      "name": "The Kelp Forest Ballads",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "1999",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17303,
+      "name": "Tempest's Wake",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2001",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17304,
+      "name": "Tripping on the Water",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "1995",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17305,
+      "name": "The One",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "1997",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17306,
+      "name": "Alight",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "1999",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17307,
+      "name": "Albatross",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2001",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17308,
+      "name": "By the Stars",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2001",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17309,
+      "name": "Levi Holloway",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17310,
+      "name": "Marin Thorne",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17311,
+      "name": "Jonah Calloway",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17314,
+      "name": "The Tide Singer's Knot",
+      "type": "MusicalGroup",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17315,
+      "name": "Ghostlights & Galleons",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "1993",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17316,
+      "name": "Currents & Curses",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "1994",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17317,
+      "name": "The Quiet of the Deep",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "1995",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17323,
+      "name": "Orin Caldwell",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17324,
+      "name": "Selena Marrow",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17325,
+      "name": "Thorne Rivenhall",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17326,
+      "name": "Jonas Fenwick",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17327,
+      "name": "Drowned Harbor",
+      "type": "MusicalGroup",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 1
+    },
+    {
+      "id": 17328,
+      "name": "Wreck and Reverie",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2005",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17329,
+      "name": "Ossuary of the Deep",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2008",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17330,
+      "name": "Phantom Currents",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2010",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17331,
+      "name": "Lodestone & Lament",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2013",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17332,
+      "name": "Where the Lanterns Fade",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2005",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17333,
+      "name": "The Undertow Waltz",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2005",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17334,
+      "name": "Sable Waves",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2008",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17335,
+      "name": "Blackwater Hymn",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2010",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17336,
+      "name": "The Coral Spire",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2010",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17337,
+      "name": "Wake Drinker",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2013",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17338,
+      "name": "Vanishing Point",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2013",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17339,
+      "name": "The Sompass Spins",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2013",
+      "notable": false,
+      "depth": 2
+    },
+    {
+      "id": 17340,
+      "name": "Orla Seabloom",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17349,
+      "name": "Beatrice Albright",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17350,
+      "name": "Tidesworn Ballads",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2031",
+      "notable": true,
+      "depth": 1
+    },
+    {
+      "id": 17355,
+      "name": "Daniel O'Connell",
+      "type": "Person",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17356,
+      "name": "Submerged Sonatas",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2031",
+      "notable": true,
+      "depth": 1
+    },
+    {
+      "id": 17361,
+      "name": "Copper Canyon Ghosts",
+      "type": "MusicalGroup",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 1
+    },
+    {
+      "id": 17362,
+      "name": "Tide-Worn Tales",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2034",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17363,
+      "name": "The Sunken Compass",
+      "type": "Album",
+      "genre": "Oceanus Folk",
+      "release_date": "2035",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17364,
+      "name": "Crimson Cliffs Awakening",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2034",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17365,
+      "name": "Salt-Stained Letters",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2034",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17366,
+      "name": "Canyon Echoes, Ocean Dreams",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2034",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17367,
+      "name": "The Cartographer's Curse",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2035",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17368,
+      "name": "Shadows in Smuggler's Cove",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2035",
+      "notable": true,
+      "depth": 2
+    },
+    {
+      "id": 17369,
+      "name": "Coastal Harmony Studios",
+      "type": "RecordLabel",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17370,
+      "name": "Oceanic Records",
+      "type": "RecordLabel",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 1
+    },
+    {
+      "id": 17373,
+      "name": "Sovereign Sound Archives",
+      "type": "RecordLabel",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17377,
+      "name": "Vertical Ascent Records",
+      "type": "RecordLabel",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17380,
+      "name": "Center Sound",
+      "type": "RecordLabel",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17381,
+      "name": "Indigenous Echo",
+      "type": "RecordLabel",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17383,
+      "name": "Medoc Music",
+      "type": "RecordLabel",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17389,
+      "name": "Plenary Sound",
+      "type": "RecordLabel",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17390,
+      "name": "Cultural Harmony",
+      "type": "RecordLabel",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17393,
+      "name": "Vertical Altitude",
+      "type": "RecordLabel",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17394,
+      "name": "Oceanus Records",
+      "type": "RecordLabel",
+      "genre": null,
+      "release_date": null,
+      "notable": null,
+      "depth": 2
+    },
+    {
+      "id": 17410,
+      "name": "Seashell Serenade",
+      "type": "Song",
+      "genre": "Oceanus Folk",
+      "release_date": "2030",
+      "notable": true,
+      "depth": 1
+    }
+  ],
+  "edges": [
+    {
+      "source": 10534,
+      "target": 16312,
+      "type": "InterpolatesFrom"
+    },
+    {
+      "source": 16943,
+      "target": 17327,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 16943,
+      "target": 17314,
+      "type": "InterpolatesFrom"
+    },
+    {
+      "source": 16952,
+      "target": 17299,
+      "type": "InterpolatesFrom"
+    },
+    {
+      "source": 16958,
+      "target": 16960,
+      "type": "MemberOf"
+    },
+    {
+      "source": 16958,
+      "target": 16961,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 16959,
+      "target": 16960,
+      "type": "MemberOf"
+    },
+    {
+      "source": 16959,
+      "target": 16961,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 16960,
+      "target": 16961,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 16960,
+      "target": 17260,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 16960,
+      "target": 17314,
+      "type": "InterpolatesFrom"
+    },
+    {
+      "source": 16966,
+      "target": 17327,
+      "type": "LyricalReferenceTo"
+    },
+    {
+      "source": 16966,
+      "target": 17192,
+      "type": "InterpolatesFrom"
+    },
+    {
+      "source": 16971,
+      "target": 17314,
+      "type": "InterpolatesFrom"
+    },
+    {
+      "source": 16971,
+      "target": 17260,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 16977,
+      "target": 17314,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 16977,
+      "target": 17299,
+      "type": "InterpolatesFrom"
+    },
+    {
+      "source": 16983,
+      "target": 16987,
+      "type": "MemberOf"
+    },
+    {
+      "source": 16983,
+      "target": 16989,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 16984,
+      "target": 16987,
+      "type": "MemberOf"
+    },
+    {
+      "source": 16984,
+      "target": 16989,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 16985,
+      "target": 16987,
+      "type": "MemberOf"
+    },
+    {
+      "source": 16985,
+      "target": 16989,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 16986,
+      "target": 16987,
+      "type": "MemberOf"
+    },
+    {
+      "source": 16986,
+      "target": 16989,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 16987,
+      "target": 16989,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 16987,
+      "target": 17299,
+      "type": "CoverOf"
+    },
+    {
+      "source": 16987,
+      "target": 17314,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 16993,
+      "target": 16996,
+      "type": "MemberOf"
+    },
+    {
+      "source": 16993,
+      "target": 16999,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 16994,
+      "target": 16996,
+      "type": "MemberOf"
+    },
+    {
+      "source": 16994,
+      "target": 16999,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 16995,
+      "target": 16996,
+      "type": "MemberOf"
+    },
+    {
+      "source": 16995,
+      "target": 16999,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 16996,
+      "target": 16999,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 16996,
+      "target": 17260,
+      "type": "LyricalReferenceTo"
+    },
+    {
+      "source": 16996,
+      "target": 17299,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 16999,
+      "target": 14893,
+      "type": "CoverOf"
+    },
+    {
+      "source": 17004,
+      "target": 17299,
+      "type": "LyricalReferenceTo"
+    },
+    {
+      "source": 17004,
+      "target": 17327,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17012,
+      "target": 17299,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17020,
+      "target": 17022,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17020,
+      "target": 17023,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17020,
+      "target": 17024,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17021,
+      "target": 17022,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17021,
+      "target": 17023,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17021,
+      "target": 17024,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17022,
+      "target": 17023,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17022,
+      "target": 17024,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17022,
+      "target": 17025,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17022,
+      "target": 17026,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17022,
+      "target": 17027,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17022,
+      "target": 17028,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17022,
+      "target": 17029,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17022,
+      "target": 17260,
+      "type": "LyricalReferenceTo"
+    },
+    {
+      "source": 17022,
+      "target": 17255,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17030,
+      "target": 17032,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17030,
+      "target": 17033,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17030,
+      "target": 17034,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17030,
+      "target": 17035,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17031,
+      "target": 17032,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17031,
+      "target": 17033,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17031,
+      "target": 17034,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17031,
+      "target": 17035,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17032,
+      "target": 17033,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17032,
+      "target": 17034,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17032,
+      "target": 17035,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17032,
+      "target": 17036,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17032,
+      "target": 17037,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17032,
+      "target": 17038,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17032,
+      "target": 17039,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17032,
+      "target": 17040,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17032,
+      "target": 17327,
+      "type": "InterpolatesFrom"
+    },
+    {
+      "source": 17032,
+      "target": 17255,
+      "type": "LyricalReferenceTo"
+    },
+    {
+      "source": 17041,
+      "target": 17046,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17041,
+      "target": 17047,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17041,
+      "target": 17048,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17041,
+      "target": 17049,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17042,
+      "target": 17046,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17042,
+      "target": 17047,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17042,
+      "target": 17048,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17042,
+      "target": 17049,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17043,
+      "target": 17046,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17043,
+      "target": 17047,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17043,
+      "target": 17048,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17043,
+      "target": 17049,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17044,
+      "target": 17046,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17044,
+      "target": 17047,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17044,
+      "target": 17048,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17044,
+      "target": 17049,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17045,
+      "target": 17046,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17045,
+      "target": 17047,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17045,
+      "target": 17048,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17045,
+      "target": 17049,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17046,
+      "target": 17047,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17046,
+      "target": 17048,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17046,
+      "target": 17049,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17046,
+      "target": 17299,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17046,
+      "target": 17327,
+      "type": "DirectlySamples"
+    },
+    {
+      "source": 17049,
+      "target": 14107,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17049,
+      "target": 7026,
+      "type": "InterpolatesFrom"
+    },
+    {
+      "source": 17057,
+      "target": 17299,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17061,
+      "target": 17063,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17061,
+      "target": 17064,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17061,
+      "target": 17065,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17062,
+      "target": 17063,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17062,
+      "target": 17064,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17062,
+      "target": 17065,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17063,
+      "target": 17064,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17063,
+      "target": 17065,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17063,
+      "target": 17066,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17063,
+      "target": 17067,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17063,
+      "target": 17068,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17063,
+      "target": 17299,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17063,
+      "target": 17255,
+      "type": "InterpolatesFrom"
+    },
+    {
+      "source": 17071,
+      "target": 17299,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17083,
+      "target": 17327,
+      "type": "InterpolatesFrom"
+    },
+    {
+      "source": 17091,
+      "target": 17327,
+      "type": "InterpolatesFrom"
+    },
+    {
+      "source": 17091,
+      "target": 17299,
+      "type": "LyricalReferenceTo"
+    },
+    {
+      "source": 17100,
+      "target": 17260,
+      "type": "LyricalReferenceTo"
+    },
+    {
+      "source": 17100,
+      "target": 17327,
+      "type": "InterpolatesFrom"
+    },
+    {
+      "source": 17107,
+      "target": 17110,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17108,
+      "target": 17110,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17109,
+      "target": 17110,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17110,
+      "target": 17111,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17110,
+      "target": 17112,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17110,
+      "target": 17113,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17110,
+      "target": 17114,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17110,
+      "target": 17115,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17110,
+      "target": 17116,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17110,
+      "target": 17117,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17110,
+      "target": 17255,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17110,
+      "target": 17260,
+      "type": "InterpolatesFrom"
+    },
+    {
+      "source": 17112,
+      "target": 17268,
+      "type": "DirectlySamples"
+    },
+    {
+      "source": 17118,
+      "target": 17120,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17118,
+      "target": 17121,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17119,
+      "target": 17120,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17119,
+      "target": 17121,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17120,
+      "target": 17121,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17120,
+      "target": 17260,
+      "type": "LyricalReferenceTo"
+    },
+    {
+      "source": 17120,
+      "target": 17314,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17126,
+      "target": 17127,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17126,
+      "target": 17127,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17126,
+      "target": 17128,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17126,
+      "target": 17128,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17126,
+      "target": 17129,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17126,
+      "target": 17129,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17126,
+      "target": 17130,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17126,
+      "target": 17131,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17126,
+      "target": 17132,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17126,
+      "target": 17133,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17126,
+      "target": 17134,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17126,
+      "target": 17255,
+      "type": "LyricalReferenceTo"
+    },
+    {
+      "source": 17126,
+      "target": 17314,
+      "type": "InterpolatesFrom"
+    },
+    {
+      "source": 17138,
+      "target": 17299,
+      "type": "LyricalReferenceTo"
+    },
+    {
+      "source": 17146,
+      "target": 17260,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17155,
+      "target": 17156,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17155,
+      "target": 17156,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17155,
+      "target": 17157,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17155,
+      "target": 17157,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17155,
+      "target": 17158,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17155,
+      "target": 17158,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17155,
+      "target": 17159,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17155,
+      "target": 17160,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17155,
+      "target": 17161,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17155,
+      "target": 17162,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17155,
+      "target": 17163,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17155,
+      "target": 17327,
+      "type": "InterpolatesFrom"
+    },
+    {
+      "source": 17155,
+      "target": 17255,
+      "type": "InterpolatesFrom"
+    },
+    {
+      "source": 17164,
+      "target": 17167,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17164,
+      "target": 17261,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17164,
+      "target": 17263,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17165,
+      "target": 17167,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17165,
+      "target": 17261,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17166,
+      "target": 17167,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17166,
+      "target": 17261,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17189,
+      "target": 17192,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17189,
+      "target": 17193,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17189,
+      "target": 17194,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17189,
+      "target": 17195,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17189,
+      "target": 17275,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17189,
+      "target": 17277,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17190,
+      "target": 17192,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17190,
+      "target": 17193,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17190,
+      "target": 17194,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17190,
+      "target": 17195,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17190,
+      "target": 17275,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17191,
+      "target": 17192,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17191,
+      "target": 17193,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17191,
+      "target": 17194,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17191,
+      "target": 17195,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17191,
+      "target": 17275,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17191,
+      "target": 17277,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17192,
+      "target": 17193,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17192,
+      "target": 17194,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17192,
+      "target": 17195,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17192,
+      "target": 17196,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17192,
+      "target": 17197,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17192,
+      "target": 17198,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17192,
+      "target": 17199,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17192,
+      "target": 17200,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17192,
+      "target": 17201,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17192,
+      "target": 17202,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17192,
+      "target": 17203,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17192,
+      "target": 17204,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17205,
+      "target": 17272,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17206,
+      "target": 17272,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17226,
+      "target": 17230,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17226,
+      "target": 17231,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17226,
+      "target": 17232,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17226,
+      "target": 17410,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17227,
+      "target": 17230,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17227,
+      "target": 17231,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17227,
+      "target": 17232,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17228,
+      "target": 17230,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17228,
+      "target": 17231,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17228,
+      "target": 17232,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17229,
+      "target": 17230,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17229,
+      "target": 17231,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17229,
+      "target": 17232,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17230,
+      "target": 17231,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17230,
+      "target": 17232,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17230,
+      "target": 17327,
+      "type": "InterpolatesFrom"
+    },
+    {
+      "source": 17231,
+      "target": 14352,
+      "type": "InterpolatesFrom"
+    },
+    {
+      "source": 17231,
+      "target": 14296,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17235,
+      "target": 17236,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17235,
+      "target": 17236,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17235,
+      "target": 17237,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17235,
+      "target": 17237,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17235,
+      "target": 17260,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17235,
+      "target": 17314,
+      "type": "DirectlySamples"
+    },
+    {
+      "source": 17243,
+      "target": 17244,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17243,
+      "target": 17245,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17243,
+      "target": 17299,
+      "type": "LyricalReferenceTo"
+    },
+    {
+      "source": 17243,
+      "target": 17260,
+      "type": "InterpolatesFrom"
+    },
+    {
+      "source": 17248,
+      "target": 17250,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17248,
+      "target": 17251,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17248,
+      "target": 17252,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17249,
+      "target": 17250,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17249,
+      "target": 17251,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17249,
+      "target": 17252,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17250,
+      "target": 17251,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17250,
+      "target": 17252,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17250,
+      "target": 17327,
+      "type": "DirectlySamples"
+    },
+    {
+      "source": 17250,
+      "target": 17314,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17255,
+      "target": 16961,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17255,
+      "target": 16989,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17255,
+      "target": 16999,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17255,
+      "target": 17047,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17255,
+      "target": 17048,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17255,
+      "target": 17049,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17255,
+      "target": 17121,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17255,
+      "target": 17231,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17255,
+      "target": 17252,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17255,
+      "target": 17260,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17255,
+      "target": 17260,
+      "type": "DirectlySamples"
+    },
+    {
+      "source": 17255,
+      "target": 17261,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17255,
+      "target": 17262,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17255,
+      "target": 17263,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17255,
+      "target": 17272,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17255,
+      "target": 17272,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17255,
+      "target": 17273,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17255,
+      "target": 17273,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17255,
+      "target": 17274,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17255,
+      "target": 17274,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17255,
+      "target": 17275,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17255,
+      "target": 17275,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17255,
+      "target": 17276,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17255,
+      "target": 17276,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17255,
+      "target": 17277,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17255,
+      "target": 17277,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17255,
+      "target": 17278,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17255,
+      "target": 17278,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17255,
+      "target": 17279,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17255,
+      "target": 17280,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17255,
+      "target": 17281,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17255,
+      "target": 17282,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17255,
+      "target": 17283,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17255,
+      "target": 17284,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17255,
+      "target": 17285,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17255,
+      "target": 17286,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17255,
+      "target": 17287,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17255,
+      "target": 17288,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17255,
+      "target": 17289,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17255,
+      "target": 17290,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17255,
+      "target": 17291,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17255,
+      "target": 17292,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17255,
+      "target": 17293,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17255,
+      "target": 17294,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17255,
+      "target": 17299,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17255,
+      "target": 17327,
+      "type": "LyricalReferenceTo"
+    },
+    {
+      "source": 17255,
+      "target": 17192,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17255,
+      "target": 17350,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17255,
+      "target": 17350,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17255,
+      "target": 17356,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17255,
+      "target": 17356,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17255,
+      "target": 17410,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17256,
+      "target": 17121,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17256,
+      "target": 17260,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17256,
+      "target": 17261,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17256,
+      "target": 17262,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17256,
+      "target": 17263,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17257,
+      "target": 17260,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17257,
+      "target": 17261,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17257,
+      "target": 17262,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17257,
+      "target": 17263,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17258,
+      "target": 17260,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17258,
+      "target": 17261,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17258,
+      "target": 17262,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17258,
+      "target": 17263,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17259,
+      "target": 17260,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17259,
+      "target": 17261,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17259,
+      "target": 17262,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17259,
+      "target": 17263,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17260,
+      "target": 17261,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17260,
+      "target": 17262,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17260,
+      "target": 17263,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17260,
+      "target": 17264,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17260,
+      "target": 17265,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17260,
+      "target": 17266,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17260,
+      "target": 17267,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17260,
+      "target": 17268,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17260,
+      "target": 17269,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17260,
+      "target": 17270,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17260,
+      "target": 17271,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17260,
+      "target": 17167,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17260,
+      "target": 17314,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17260,
+      "target": 17299,
+      "type": "LyricalReferenceTo"
+    },
+    {
+      "source": 17260,
+      "target": 17192,
+      "type": "InterpolatesFrom"
+    },
+    {
+      "source": 17261,
+      "target": 2197,
+      "type": "DirectlySamples"
+    },
+    {
+      "source": 17261,
+      "target": 9223,
+      "type": "CoverOf"
+    },
+    {
+      "source": 17273,
+      "target": 3881,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17273,
+      "target": 9848,
+      "type": "CoverOf"
+    },
+    {
+      "source": 17275,
+      "target": 16312,
+      "type": "CoverOf"
+    },
+    {
+      "source": 17275,
+      "target": 15855,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17277,
+      "target": 876,
+      "type": "LyricalReferenceTo"
+    },
+    {
+      "source": 17277,
+      "target": 3986,
+      "type": "LyricalReferenceTo"
+    },
+    {
+      "source": 17279,
+      "target": 14658,
+      "type": "InterpolatesFrom"
+    },
+    {
+      "source": 17280,
+      "target": 14933,
+      "type": "CoverOf"
+    },
+    {
+      "source": 17280,
+      "target": 10534,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17285,
+      "target": 8207,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17286,
+      "target": 10903,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17287,
+      "target": 13589,
+      "type": "LyricalReferenceTo"
+    },
+    {
+      "source": 17287,
+      "target": 11254,
+      "type": "InterpolatesFrom"
+    },
+    {
+      "source": 17289,
+      "target": 5574,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17290,
+      "target": 12685,
+      "type": "InterpolatesFrom"
+    },
+    {
+      "source": 17290,
+      "target": 12237,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17292,
+      "target": 13014,
+      "type": "DirectlySamples"
+    },
+    {
+      "source": 17292,
+      "target": 6592,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17295,
+      "target": 17299,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17295,
+      "target": 17300,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17295,
+      "target": 17301,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17295,
+      "target": 17302,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17295,
+      "target": 17303,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17296,
+      "target": 17276,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17296,
+      "target": 17299,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17296,
+      "target": 17300,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17296,
+      "target": 17301,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17296,
+      "target": 17302,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17296,
+      "target": 17303,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17297,
+      "target": 17299,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17297,
+      "target": 17300,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17297,
+      "target": 17301,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17297,
+      "target": 17302,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17297,
+      "target": 17303,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17298,
+      "target": 17299,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17298,
+      "target": 17300,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17298,
+      "target": 17301,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17298,
+      "target": 17302,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17298,
+      "target": 17303,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17299,
+      "target": 17300,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17299,
+      "target": 17301,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17299,
+      "target": 17302,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17299,
+      "target": 17303,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17299,
+      "target": 17304,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17299,
+      "target": 17305,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17299,
+      "target": 17306,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17299,
+      "target": 17307,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17299,
+      "target": 17308,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17307,
+      "target": 17200,
+      "type": "LyricalReferenceTo"
+    },
+    {
+      "source": 17309,
+      "target": 17276,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17309,
+      "target": 17314,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17309,
+      "target": 17315,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17309,
+      "target": 17316,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17309,
+      "target": 17317,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17310,
+      "target": 17278,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17310,
+      "target": 17314,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17310,
+      "target": 17315,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17310,
+      "target": 17316,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17310,
+      "target": 17317,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17311,
+      "target": 17278,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17311,
+      "target": 17314,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17311,
+      "target": 17315,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17311,
+      "target": 17316,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17311,
+      "target": 17317,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17314,
+      "target": 17315,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17314,
+      "target": 17316,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17314,
+      "target": 17317,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17323,
+      "target": 17327,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17323,
+      "target": 17328,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17323,
+      "target": 17329,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17323,
+      "target": 17330,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17323,
+      "target": 17331,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17324,
+      "target": 17327,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17324,
+      "target": 17328,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17324,
+      "target": 17329,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17324,
+      "target": 17330,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17324,
+      "target": 17331,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17325,
+      "target": 17327,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17325,
+      "target": 17328,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17325,
+      "target": 17329,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17325,
+      "target": 17330,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17325,
+      "target": 17331,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17326,
+      "target": 17327,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17326,
+      "target": 17328,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17326,
+      "target": 17329,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17326,
+      "target": 17330,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17326,
+      "target": 17331,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17327,
+      "target": 17328,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17327,
+      "target": 17329,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17327,
+      "target": 17330,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17327,
+      "target": 17331,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17327,
+      "target": 17332,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17327,
+      "target": 17333,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17327,
+      "target": 17334,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17327,
+      "target": 17335,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17327,
+      "target": 17336,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17327,
+      "target": 17337,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17327,
+      "target": 17338,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17327,
+      "target": 17339,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17340,
+      "target": 17192,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17340,
+      "target": 17299,
+      "type": "LyricalReferenceTo"
+    },
+    {
+      "source": 17349,
+      "target": 17350,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17349,
+      "target": 17350,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17349,
+      "target": 17260,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17349,
+      "target": 17327,
+      "type": "LyricalReferenceTo"
+    },
+    {
+      "source": 17349,
+      "target": 17361,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17349,
+      "target": 17362,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17349,
+      "target": 17362,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17349,
+      "target": 17363,
+      "type": "LyricistOf"
+    },
+    {
+      "source": 17349,
+      "target": 17363,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17350,
+      "target": 10016,
+      "type": "CoverOf"
+    },
+    {
+      "source": 17355,
+      "target": 17356,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17355,
+      "target": 17356,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17355,
+      "target": 17314,
+      "type": "LyricalReferenceTo"
+    },
+    {
+      "source": 17355,
+      "target": 17361,
+      "type": "MemberOf"
+    },
+    {
+      "source": 17355,
+      "target": 17362,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17355,
+      "target": 17362,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17355,
+      "target": 17363,
+      "type": "ComposerOf"
+    },
+    {
+      "source": 17355,
+      "target": 17363,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17361,
+      "target": 17362,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17361,
+      "target": 17363,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17361,
+      "target": 17364,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17361,
+      "target": 17365,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17361,
+      "target": 17366,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17361,
+      "target": 17367,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17361,
+      "target": 17368,
+      "type": "PerformerOf"
+    },
+    {
+      "source": 17361,
+      "target": 17255,
+      "type": "DirectlySamples"
+    },
+    {
+      "source": 17361,
+      "target": 17260,
+      "type": "InStyleOf"
+    },
+    {
+      "source": 17369,
+      "target": 16987,
+      "type": "ProducerOf"
+    },
+    {
+      "source": 17369,
+      "target": 17046,
+      "type": "ProducerOf"
+    },
+    {
+      "source": 17369,
+      "target": 17120,
+      "type": "ProducerOf"
+    },
+    {
+      "source": 17369,
+      "target": 17340,
+      "type": "ProducerOf"
+    },
+    {
+      "source": 17369,
+      "target": 17349,
+      "type": "ProducerOf"
+    },
+    {
+      "source": 17369,
+      "target": 17355,
+      "type": "ProducerOf"
+    },
+    {
+      "source": 17369,
+      "target": 17361,
+      "type": "ProducerOf"
+    },
+    {
+      "source": 17369,
+      "target": 16989,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17369,
+      "target": 17047,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17369,
+      "target": 17048,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17369,
+      "target": 17049,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17369,
+      "target": 17121,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17369,
+      "target": 17350,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17369,
+      "target": 17356,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17369,
+      "target": 17362,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17369,
+      "target": 17363,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17230,
+      "type": "ProducerOf"
+    },
+    {
+      "source": 17370,
+      "target": 17235,
+      "type": "ProducerOf"
+    },
+    {
+      "source": 17370,
+      "target": 17243,
+      "type": "ProducerOf"
+    },
+    {
+      "source": 17370,
+      "target": 17250,
+      "type": "ProducerOf"
+    },
+    {
+      "source": 17370,
+      "target": 17260,
+      "type": "ProducerOf"
+    },
+    {
+      "source": 17370,
+      "target": 17255,
+      "type": "ProducerOf"
+    },
+    {
+      "source": 17370,
+      "target": 17299,
+      "type": "ProducerOf"
+    },
+    {
+      "source": 17370,
+      "target": 17314,
+      "type": "ProducerOf"
+    },
+    {
+      "source": 17370,
+      "target": 17327,
+      "type": "ProducerOf"
+    },
+    {
+      "source": 17370,
+      "target": 17231,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17232,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17236,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17237,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17244,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17245,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17251,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17252,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17261,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17262,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17263,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17272,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17273,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17274,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17275,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17276,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17277,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17278,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17300,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17301,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17302,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17303,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17315,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17316,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17317,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17328,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17329,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17330,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17370,
+      "target": 17331,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17373,
+      "target": 16960,
+      "type": "ProducerOf"
+    },
+    {
+      "source": 17373,
+      "target": 16961,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17377,
+      "target": 16996,
+      "type": "ProducerOf"
+    },
+    {
+      "source": 17377,
+      "target": 16999,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17380,
+      "target": 17022,
+      "type": "ProducerOf"
+    },
+    {
+      "source": 17380,
+      "target": 17023,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17380,
+      "target": 17024,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17381,
+      "target": 17032,
+      "type": "ProducerOf"
+    },
+    {
+      "source": 17381,
+      "target": 17033,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17381,
+      "target": 17034,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17381,
+      "target": 17035,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17383,
+      "target": 17063,
+      "type": "ProducerOf"
+    },
+    {
+      "source": 17383,
+      "target": 17064,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17383,
+      "target": 17065,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17389,
+      "target": 17110,
+      "type": "ProducerOf"
+    },
+    {
+      "source": 17389,
+      "target": 17111,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17389,
+      "target": 17112,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17389,
+      "target": 17113,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17390,
+      "target": 17126,
+      "type": "ProducerOf"
+    },
+    {
+      "source": 17390,
+      "target": 17127,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17390,
+      "target": 17128,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17390,
+      "target": 17129,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17393,
+      "target": 17155,
+      "type": "ProducerOf"
+    },
+    {
+      "source": 17393,
+      "target": 17156,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17393,
+      "target": 17157,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17393,
+      "target": 17158,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17394,
+      "target": 17167,
+      "type": "ProducerOf"
+    },
+    {
+      "source": 17394,
+      "target": 17192,
+      "type": "ProducerOf"
+    },
+    {
+      "source": 17394,
+      "target": 17193,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17394,
+      "target": 17194,
+      "type": "RecordedBy"
+    },
+    {
+      "source": 17394,
+      "target": 17195,
+      "type": "RecordedBy"
+    }
+  ]
+}
