@@ -98,45 +98,16 @@ function rationale(p, rank) {
   )}, NotableCount ${p.notable_count_norm.toFixed(2)}). ${pct}% of their catalog was released in the dataset's final ${MOMENTUM_WINDOW} years, so they're still actively producing rather than coasting on older work -- the same shape Sailor's own output took right after her 2028 breakout.`
 }
 
-// --- Reflection questions ------------------------------------------------
-// Drafted from the actual build process; the first-person answers are a
-// starting point only -- put them in your own words before submitting.
-const reflection1 = ref(
-  `Yes, in a few concrete spots. The radar/spider chart for Talent Radar couldn't use D3's built-in lineRadial, because ` +
-  `mixing it with manually-drawn axis lines created angle-convention mismatches (lineRadial's 0deg didn't line up with ` +
-  `the axis I drew by hand) -- so the polygon points had to be computed manually with the same angleFor(i) function used ` +
-  `for the axes. The Influence Analysis network graph needed a hybrid force+radial layout (seed nodes on rings by BFS ` +
-  `hop-distance from Sailor, then let d3.forceRadial settle them) rather than a plain force layout, so hop-distance from ` +
-  `Sailor stays visually legible even after the simulation moves things around. The Sankey diagram needed its row height ` +
-  `and total canvas height computed dynamically after layout (not guessed up front), because a fixed height either made ` +
-  `low-value rows illegibly thin or clipped high-value rows off the bottom of the canvas.`
-)
-const reflection2 = ref(`[Personal -- fill in: did you take part in last year's VAST Challenge, and if so, how did it help this year?]`)
-const reflection3 = ref(
-  `The trickiest part was the influence-edge direction convention: edges point FROM the newer/derivative work TO the ` +
-  `work it draws from, which is the opposite of how "A influenced B" reads in plain English, and it's easy to build a ` +
-  `whole module backwards if you get it flipped. A small number of influence edges also point directly at a Person/` +
-  `MusicalGroup node rather than a specific Song/Album (67 out of 7,407 edges), and those artist nodes have no date ` +
-  `field at all -- so those particular influence events can't be placed on a timeline, only counted. Clearer inline ` +
-  `documentation of edge direction in the data dictionary, and a date/decade field on every node type (not just works), ` +
-  `would have made both of those a lot less error-prone to work with.`
-)
-
 function exportWriteup() {
   const lines = [
     '# Task 3.2 -- Three Predictions for the Next Oceanus Folk Stars', '',
     ...predictions.value.map((p, i) => `${i + 1}. **${p.name}** -- ${rationale(p, i + 1)}`), '',
-    '# Reflection Questions', '',
-    '## Did the challenge push you to develop new visual representation techniques?', reflection1.value, '',
-    "## Did you participate in last year's challenge? Did it help?", reflection2.value, '',
-    '## What was the most difficult part of working with this data, and what would have made it more accessible?',
-    reflection3.value, '',
   ]
   const blob = new Blob([lines.join('\n')], { type: 'text/markdown' })
   const url = URL.createObjectURL(blob)
   const el = document.createElement('a')
   el.href = url
-  el.download = 'findings_and_reflection.md'
+  el.download = 'findings_predictions.md'
   el.click()
   URL.revokeObjectURL(url)
 }
@@ -176,27 +147,7 @@ function exportWriteup() {
           </div>
         </section>
 
-        <section>
-          <h3>Reflection Questions</h3>
-          <p class="methodology">
-            Drafted from the actual build process below &mdash; edit into your own words before submitting.
-          </p>
-
-          <div class="reflection-block">
-            <label>Did the challenge push you to develop new visual representation techniques?</label>
-            <textarea v-model="reflection1" rows="6"></textarea>
-          </div>
-          <div class="reflection-block">
-            <label>Did you participate in last year's challenge? Did it help?</label>
-            <textarea v-model="reflection2" rows="3"></textarea>
-          </div>
-          <div class="reflection-block">
-            <label>What was the most difficult part of working with this data, and what would have made it more accessible?</label>
-            <textarea v-model="reflection3" rows="6"></textarea>
-          </div>
-        </section>
-
-        <button type="button" class="export-btn" @click="exportWriteup">&#8681; Export Write-up (Markdown)</button>
+        <button type="button" class="export-btn" @click="exportWriteup">&#8681; Export Predictions (Markdown)</button>
       </template>
     </div>
   </div>
@@ -293,27 +244,6 @@ h4.chart-title {
   height: 10px;
   border-radius: 50%;
   display: inline-block;
-}
-.reflection-block {
-  margin-bottom: 1rem;
-}
-.reflection-block label {
-  display: block;
-  font-weight: 600;
-  font-size: 0.82rem;
-  color: #333;
-  margin-bottom: 0.3rem;
-}
-.reflection-block textarea {
-  width: 100%;
-  box-sizing: border-box;
-  border: 1px solid #ccd2d8;
-  border-radius: 3px;
-  padding: 0.5rem 0.6rem;
-  font-size: 0.82rem;
-  font-family: inherit;
-  color: #333;
-  resize: vertical;
 }
 .export-btn {
   border: 1px solid #147d75;

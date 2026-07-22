@@ -62,6 +62,8 @@ function render() {
   const g = layer.append('g')
   const colorScale = makeCategoryColorScale(allGenres)
 
+  // Lines first (a series with only 1 point draws no visible line here,
+  // which is expected -- you can't connect a single point).
   props.series.forEach((s) => {
     const c = colorScale(s.genre)
     g.append('path')
@@ -70,17 +72,52 @@ function render() {
       .attr('stroke', c)
       .attr('stroke-width', 2)
       .attr('d', line)
-
-    g.selectAll(`.dot-${s.genre.replace(/\W/g, '')}`)
-      .data(s.points)
-      .join('circle')
-      .attr('cx', (d) => x(d.year))
-      .attr('cy', (d) => y(d.count))
-      .attr('r', 2.5)
-      .attr('fill', c)
-      .append('title')
-      .text((d) => `${s.genre}, ${d.year}: ${d.count}`)
   })
+
+  // Dots: built as one flat list (instead of one .selectAll() per series)
+  // so we can (a) draw a bigger, outlined marker for any series that has
+  // only a single data point -- otherwise a lone dot the same tiny size as
+  // every other point is easy to miss or mistake for a rendering gap -- and
+  // (b) detect when two different series land on the exact same pixel
+  // (same year + same count, e.g. two artists who each released their only
+  // work in the same year) and nudge them apart slightly so one doesn't
+  // silently sit underneath and hide the other.
+  const allDots = []
+  props.series.forEach((s) => {
+    const c = colorScale(s.genre)
+    s.points.forEach((d) => {
+      allDots.push({ genre: s.genre, color: c, year: d.year, count: d.count, isSingle: s.points.length === 1 })
+    })
+  })
+
+  const overlapGroups = new Map()
+  allDots.forEach((d) => {
+    const key = `${d.year}|${d.count}`
+    if (!overlapGroups.has(key)) overlapGroups.set(key, [])
+    overlapGroups.get(key).push(d)
+  })
+  overlapGroups.forEach((group) => {
+    if (group.length < 2) return
+    const nudge = 5
+    group.forEach((d, i) => {
+      const angle = (i / group.length) * 2 * Math.PI
+      d.offsetX = Math.cos(angle) * nudge
+      d.offsetY = Math.sin(angle) * nudge
+    })
+  })
+
+  g.selectAll('.data-dot')
+    .data(allDots)
+    .join('circle')
+    .attr('class', 'data-dot')
+    .attr('cx', (d) => x(d.year) + (d.offsetX || 0))
+    .attr('cy', (d) => y(d.count) + (d.offsetY || 0))
+    .attr('r', (d) => (d.isSingle ? 6 : 2.5))
+    .attr('fill', (d) => d.color)
+    .attr('stroke', (d) => (d.isSingle ? '#fff' : 'none'))
+    .attr('stroke-width', (d) => (d.isSingle ? 1.5 : 0))
+    .append('title')
+    .text((d) => `${d.genre}, ${d.year}: ${d.count}${d.isSingle ? ' (only data point for this series)' : ''}`)
 
   layer
     .append('text')
