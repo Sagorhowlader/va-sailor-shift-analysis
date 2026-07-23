@@ -171,10 +171,13 @@ function exportCareerData() {
               <TrendLineChart :series="outputSeries" y-label="Cumulative Works" />
             </div>
 
+            <!-- Influence chart commented out per request -->
+            <!--
             <h3 class="chart-title">Influence &mdash; Cumulative Times Their Work Was Drawn On</h3>
             <div class="chart-wrap">
               <TrendLineChart :series="influenceSeries" y-label="Cumulative Influence" />
             </div>
+            -->
 
             <div class="legend">
               <div v-for="a in selectedArtists" :key="a.id" class="legend-row">
