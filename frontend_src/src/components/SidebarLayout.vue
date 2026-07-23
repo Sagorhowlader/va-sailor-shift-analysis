@@ -13,7 +13,7 @@ const navItems = [
   { label: 'Talent Radar', to: '/talent-radar' },
   { label: 'Trend Dashboard', to: '/trend-dashboard' },
   { label: 'Career Timeline', to: '/career-timeline' },
-  { label: 'Findings & Predictions', to: '/findings' },
+  // { label: 'Findings & Predictions', to: '/findings' },
 ]
 </script>
 
