@@ -35,12 +35,12 @@ const cards = [
     to: '/career-timeline',
     content: "Compare up to three artists' rise in output and influence, side by side.",
   },
-  {
-    title: 'Findings & Predictions',
-    subtitle: 'Connected components',
-    to: '/findings',
-    content: 'Three data-backed picks for the next Oceanus Folk star, plus reflection notes.',
-  },
+  // {
+  //   title: 'Findings & Predictions',
+  //   subtitle: 'Connected components',
+  //   to: '/findings',
+  //   content: 'Three data-backed picks for the next Oceanus Folk star, plus reflection notes.',
+  // },
 ]
 </script>
 
